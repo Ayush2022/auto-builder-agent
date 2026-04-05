@@ -1,0 +1,11 @@
+spec_version: "0.1.0"
+name: auto-builder-agent
+version: 0.1.0
+description: "Transforms ideas into software"
+model:
+  preferred: claude-sonnet-4-5-20250929
+skills:
+  - idea-to-plan
+  - code-generator
+  - project-fixer
+  - deployment-guide
