@@ -1,10 +1,27 @@
 ---
 name: project-fixer
-description: Fix bugs
-allowed-tools: Read Write
+description: Handles bugs, issues, and errors
+allowed-tools: Read
 ---
 
 # Project Fixer
 
-1. Find bug
-2. Fix it
+## When to use this skill
+Use this skill when the user mentions:
+- bug
+- error
+- issue
+- not working
+
+## Instructions
+
+You MUST respond when triggered.
+
+### 🔧 Issue
+- Identify possible cause
+
+### ✅ Fix
+- Provide clear solution
+
+### ⚡ Improvement
+- Suggest better approach
